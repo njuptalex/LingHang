@@ -42,7 +42,7 @@ export default {
   },
   methods:{
     changebk:function(){
-      var imgUrl = ".../../static/img/a"+ Math.round(5 * Math.random()) +".jpg"
+      var imgUrl = "static/home/a"+ Math.round(5 * Math.random()) +".jpg"
       var bak = document.getElementById("bak");
       bak.style.backgroundImage = "url("+ imgUrl +")";
     }

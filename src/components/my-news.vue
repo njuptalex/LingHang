@@ -262,49 +262,49 @@ export default {
   min-width: 1000px;
 }
 #news0 {
-  background: url(../../static/img/mmexport1509867972956.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509867972956.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news1 {
-  background: url(../../static/img/mmexport1509867985321.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509867985321.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news2 {
-  background: url(../../static/img/mmexport1509867995644.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509867995644.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news3 {
-  background: url(../../static/img/mmexport1509868019358.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509868019358.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news4 {
-  background: url(../../static/img/mmexport1509868080329.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509868080329.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news5 {
-  background: url(../../static/img/mmexport1509868087822.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509868087822.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news6 {
-  background: url(../../static/img/mmexport1509868092616.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509868092616.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
 }
 #news7 {
-  background: url(../../static/img/mmexport1509868169820.jpg) no-repeat;
+  background: url(../../static/news/mmexport1509868169820.jpg) no-repeat;
   background-size:cover;
   height: 100%;
   width: 100%;
